@@ -6,7 +6,7 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":1008001}, "model": "item/wooden_axe/pitchfork_wood"},
-		{"predicate": {"custom_model_data":1008011}, "model": "item/wooden_axe/terraforming axe"},
+		{"predicate": {"custom_model_data":1008011}, "model": "item/wooden_axe/terraforming_axe"},
 		{"predicate": {"custom_model_data":1008021}, "model": "item/wooden_axe/wand"},
 		{"predicate": {"custom_model_data":1008031}, "model": "item/wooden_axe/wooden_mace"}
 	]
