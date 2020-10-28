@@ -1,9 +1,0 @@
-{
-  "parent": "./black",
-  "textures": {
-		"0": "block/black_concrete_powder",
-		"1": "block/light_blue_concrete",
-		"2": "block/yellow_concrete_powder",
-		"particle": "block/black_concrete_powder"
-  }
-}
