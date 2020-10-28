@@ -1,0 +1,657 @@
+{
+	"credit": "Credit: Oran9eUtan, Ontvlambaar",
+	"textures": {
+		"mining_helmet": "items/mining_helmet_off"
+	},
+	"elements": [
+		{
+			"name": "mining_helmet1",
+			"from": [-1, 8, 14],
+			"to": [17, 10, 16],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet2",
+			"from": [14, 8, 1],
+			"to": [17, 10, 14],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet3",
+			"from": [0, 8, 16],
+			"to": [16, 10, 17],
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet4",
+			"from": [14, 10, 2],
+			"to": [16, 16, 14],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet5",
+			"from": [14, 8, -2],
+			"to": [15, 10, 1],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet6",
+			"from": [1, 10, 14],
+			"to": [15, 14, 16],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet7",
+			"from": [10, 8, -2],
+			"to": [14, 10, 0],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet8",
+			"from": [11, 10, 0],
+			"to": [14, 16, 2],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet9",
+			"from": [0, 14, 13],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet10",
+			"from": [0, 15, 2],
+			"to": [14, 16, 3],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet11",
+			"from": [2, 16, 3],
+			"to": [14, 18, 14],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet12",
+			"from": [3, 14, 14],
+			"to": [13, 17, 16],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet13",
+			"from": [10, 8, -5],
+			"to": [12, 10, -2],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet14",
+			"from": [4, 10, -2],
+			"to": [12, 11, 0],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet15",
+			"from": [10, 11, -2],
+			"to": [12, 12, 0],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet16",
+			"from": [11, 16, 2],
+			"to": [12, 18, 3],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet17",
+			"from": [11, 16, 1],
+			"to": [12, 17, 2],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet18",
+			"from": [11, 17, 14],
+			"to": [12, 18, 15],
+			"faces": {
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"south": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet19",
+			"from": [11, 18, 3],
+			"to": [12, 19, 14],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"south": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet20",
+			"from": [2, 12, 0],
+			"to": [11, 16, 2],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet21",
+			"from": [10, 12, -2],
+			"to": [11, 16, 0],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet22",
+			"from": [4, 8, -5],
+			"to": [10, 10, -3],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet23",
+			"from": [1, 9, -2],
+			"to": [10, 10, 0],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet24",
+			"from": [4, 9, -3],
+			"to": [10, 10, -2],
+			"faces": {
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet25",
+			"from": [9, 11, -2],
+			"to": [10, 12, 0],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet26",
+			"from": [6, 12, -1],
+			"to": [10, 16, 0],
+			"faces": {
+				"north": {"uv": [12.96, 0.96, 15.04, 3.04], "texture": "#mining_helmet"},
+				"down": {"uv": [12.96, 0.96, 15.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet27",
+			"from": [9, 12, -2],
+			"to": [10, 13, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet28",
+			"from": [9, 15, -2],
+			"to": [10, 17, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet29",
+			"from": [6, 16, -1],
+			"to": [10, 17, 0],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet30",
+			"from": [7, 11, -1],
+			"to": [9, 12, 0],
+			"faces": {
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet31",
+			"from": [6, 11, -2],
+			"to": [9, 12, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet32",
+			"from": [7, 16, 2],
+			"to": [9, 18, 3],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet33",
+			"from": [7, 16, 1],
+			"to": [9, 17, 2],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet34",
+			"from": [6, 16, -2],
+			"to": [9, 17, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet35",
+			"from": [7, 17, 14],
+			"to": [9, 18, 15],
+			"faces": {
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"south": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet36",
+			"from": [7, 18, 3],
+			"to": [9, 19, 14],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"south": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet37",
+			"from": [6, 11, -1],
+			"to": [7, 12, 0],
+			"faces": {
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet38",
+			"from": [5, 12, -2],
+			"to": [7, 13, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet39",
+			"from": [5, 15, -2],
+			"to": [7, 16, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet40",
+			"from": [1, 8, -2],
+			"to": [6, 9, 0],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet41",
+			"from": [4, 8, -3],
+			"to": [6, 9, -2],
+			"faces": {
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet42",
+			"from": [4, 11, -2],
+			"to": [6, 12, 0],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet43",
+			"from": [5, 12, -1],
+			"to": [6, 16, 0],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [8.96, 0.96, 11.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet44",
+			"from": [5, 13, -2],
+			"to": [6, 15, -1],
+			"faces": {
+				"north": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [8.96, 0.96, 11.04, 3.04], "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet45",
+			"from": [2, 10, 0],
+			"to": [5, 12, 2],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet46",
+			"from": [4, 16, 2],
+			"to": [5, 18, 3],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet47",
+			"from": [4, 16, 1],
+			"to": [5, 17, 2],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet48",
+			"from": [4, 17, 14],
+			"to": [5, 18, 15],
+			"faces": {
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"south": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet49",
+			"from": [4, 18, 3],
+			"to": [5, 19, 14],
+			"faces": {
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"south": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#mining_helmet"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet50",
+			"from": [-1, 8, 1],
+			"to": [2, 10, 14],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet51",
+			"from": [1, 8, 0],
+			"to": [2, 10, 1],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet52",
+			"from": [0, 10, 2],
+			"to": [2, 14, 14],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet53",
+			"from": [0, 14, 3],
+			"to": [2, 16, 13],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"up": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 180, "texture": "#mining_helmet"}
+			}
+		},
+		{
+			"name": "mining_helmet",
+			"from": [0, 14, 2],
+			"to": [2, 15, 3],
+			"faces": {
+				"north": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"east": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"},
+				"west": {"uv": [4.96, 0.96, 7.04, 3.04], "texture": "#mining_helmet"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 20, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 20, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, 14, 11],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [12, 14, 11],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -4.173, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 0.6956, -0.7]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 1.522, 1]
+		}
+	}
+}
