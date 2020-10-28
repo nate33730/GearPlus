@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld2",
     "textures": {
-        "layer0": "item/blaze_rod"
+        "layer0": "items/blaze_rod"
     }
 }
